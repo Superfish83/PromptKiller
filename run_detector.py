@@ -17,8 +17,9 @@ ascii_art = r"""
 ███       ██    ▀███▀ ██ ██ ██ ████▀  ██   ███  ▀███ ██▄ ██ ██ ▀█▄▄▄ ██    
                                ██                                          
                                ▀▀                                          
-    Introduction to NLP - 2025-2
-    Term Project by Yeonjun Kim
+    Introduction to NLP Term Project
+    
+    Yeonjun Kim
     Dept. of Computer Science and Engineering, Seoul National University
 
 """

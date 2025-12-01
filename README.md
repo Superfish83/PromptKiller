@@ -1,4 +1,4 @@
-# PromptKiller: Few-shot Detection for LLM Prompt Injection Attacks
+# PromptKiller: Few-shot Detection of Prompt Injection Attacks
 
 ### Introduction to NLP Term Project, Fall 2025
 
