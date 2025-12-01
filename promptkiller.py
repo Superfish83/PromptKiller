@@ -58,8 +58,8 @@ class PromptKiller:
         time_e = time.time()
         if verbose:
             print(f"[PromptKiller] Prediction completed in {(time_e - time_s):.2f} seconds.")
-            print(text_sim)
-            print(f"[PromptKiller] Input text: {text}")
-            print(f"[PromptKiller] Predicted label: {text_res}")
+            print(f"* {text_sim}")
+            print(f"* Input Prompt:\t{text}")
+            print(f"* Predicted:\t'{text_res}'")
 
         return res

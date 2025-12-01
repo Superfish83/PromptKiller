@@ -39,7 +39,7 @@ if __name__ == "__main__":
     sample_input_idx = 0
     while True:
         print('\n')
-        print("Input your prompt to test the detector. Input nothing to test with one of the sample prompts. Input 'exit' to quit.")
+        print("Input your prompt here. Input blank string to test with one of the sample prompts. Input 'exit' to quit.")
 
         user_input = input("prompt> ")
         if user_input.lower() == 'exit':
