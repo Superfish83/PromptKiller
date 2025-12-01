@@ -51,3 +51,4 @@ if __name__ == "__main__":
         res = pklr.predict(user_input, verbose=True)
     
     print("[PromptKiller] quitting...")
+    exit(0)
